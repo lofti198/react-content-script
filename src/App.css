@@ -1,24 +1,13 @@
 .App {
   text-align: center;
   position: fixed;
+  top: 0;
+  right: 20px;
   width: 400px;
   height: 400px;
   z-index: 2147483645;
-}
-
-/* testcss {
-  top: 0;
-  right: 20px;
-  position: fixed;
-
-  width: 400px;
-  margin: 0 auto;
-  z-index: 2147483645;
-  transform: translateY(-110%);
-  transition: all ease-in 0.3s;
-  box-shadow: 0 0 12px 3px rgba(34, 60, 80, 0.1);
   background: #fcfcfc;
-} */
+}
 
 .App-logo {
   height: 40vmin;
